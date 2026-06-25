@@ -183,7 +183,7 @@ return (
             <input
               type="number"
               min="0" // Minimum allowed value
-              max="10000" // Maximum allowed value
+              max="500" // Maximum allowed value
             value={inputValue3}
               onChange={handleChangeStock}
               placeholder="Stock"
